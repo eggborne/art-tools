@@ -1,0 +1,32 @@
+.NavList {
+  /* position: absolute; */
+  top: 0;
+  right: 0;
+  background-color: var(--header-color);
+  border-radius: 0.5rem;
+  & ul {
+    display: flex;
+    flex-direction: column-reverse;
+    gap: 1rem;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  & li {
+    background: salmon;
+    padding: 0.5rem 1rem;
+    border-radius: 0.5rem;
+    cursor: pointer;
+  }
+}
+
+@media (orientation: landscape) {
+  .NavList {
+
+    & ul {
+      flex-direction: row;
+      gap: 2rem;
+    }
+  }
+}
