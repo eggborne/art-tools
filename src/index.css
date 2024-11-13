@@ -15,12 +15,16 @@
   -moz-osx-font-smoothing: grayscale;
   
   --header-height: 3rem;
+  --footer-height: 1.5rem;
   --header-color: #333;
   --card-color: #666;
 }
 
 * {
   box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  overscroll-behavior: none;
 }
 
 #root {
@@ -39,7 +43,6 @@ a:hover {
 
 body {
   min-width: 320px;
-  min-height: 100dvh;
 }
 
 h1 {
@@ -58,6 +61,17 @@ button {
   cursor: pointer;
   transition: border-color 0.25s;
 }
+
+button.gold {
+  background-color: rgb(203, 173, 0);
+}
+button.green {
+  background-color: green;
+}
+button.red {
+  background-color: red;
+}
+
 button:hover {
   border-color: #646cff;
 }
@@ -75,7 +89,7 @@ header, footer {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 0 1rem;
+  padding: 0 0.5rem;
   z-index: 2;
 }
 
@@ -87,18 +101,18 @@ header {
 footer {
   bottom: 0;
   font-size: 0.8rem;
-  height: calc(var(--header-height) / 2);
+  height: var(--footer-height);
   justify-content: center;
 }
 
 main {
   margin-top: var(--header-height);
-  height: calc(100dvh - (var(--header-height) * 1.5));
+  margin-bottom: var(--footer-height);
+  min-height: calc(100dvh - (var(--header-height) * 1.5));
   background: #555;
-  padding: 1rem;
 }
 
-@media (prefers-color-scheme: light) {
+/* @media (prefers-color-scheme: light) {
   :root {
     color: #213547;
     background-color: #ffffff;
@@ -109,4 +123,4 @@ main {
   button {
     background-color: #f9f9f9;
   }
-}
+} */

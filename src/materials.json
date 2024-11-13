@@ -1,0 +1,168 @@
+{
+  "Golden": {
+    "Heavy Body Acrylics": {
+      "Yellows": [
+        "Titanate Yellow",
+        "Cadmium Yellow Primrose",
+        "Bismuth Vanadate Yellow",
+        "Light Bismuth Yellow",
+        "Cadmium Yellow Light",
+        "Primary Yellow",
+        "Benzimidazolone Yellow Light",
+        "Benzimidazolone Yellow Medium",
+        "Hansa Yellow Opaque",
+        "Cadmium Yellow Medium",
+        "Cadmium Yellow Medium Hue",
+        "Nickel Azo Yellow",
+        "India Yellow Hue",
+        "Azo Gold",
+        "Benzimidazolone Burnt Orange",
+        "Cadmium Yellow Dark",
+        "Isoindolinone Yellow",
+        "Diarylide Yellow"
+      ],
+      "Oranges": [
+        "Cadmium Orange",
+        "Vat Orange",
+        "Pyrrole Orange",
+        "Light Orange"
+      ],
+      "Reds": [
+        "Cadmium Red Light",
+        "Pyrrole Red Light",
+        "Naphthol Red Light",
+        "Pyrrole Red",
+        "Cadmium Red Medium",
+        "Cadmium Red Medium Hue",
+        "Cadmium Red Dark",
+        "Pyrrole Red Dark",
+        "Primary Magenta",
+        "Light Magenta",
+        "Naphthol Red Medium",
+        "Naphthol Pink",
+        "Quinacridone Red",
+        "Alizarin Crimson Hue",
+        "Permanent Maroon",
+        "Quinacridone Magenta",
+        "Medium Magenta",
+        "Quinacridone Violet"
+      ],
+      "Blues": [
+        "Ultramarine Blue",
+        "Light Ultramarine Blue",
+        "Cobalt Blue",
+        "Cobalt Blue Hue",
+        "Cerulean Blue, Chromium",
+        "Anthraquinone Blue",
+        "Prussian Blue Hue",
+        "Phthalo Blue (Red Shade)",
+        "Phthalo Blue (Green Shade)",
+        "Light Phthalo Blue",
+        "Primary Cyan",
+        "Cerulean Blue Deep",
+        "Manganese Blue Hue",
+        "Azurite Hue"
+      ],
+      "Greens": [
+        "Teal",
+        "Cobalt Teal",
+        "Light Turquoise (Phthalo)",
+        "Turquoise (Phthalo)",
+        "Cobalt Turquoise",
+        "Phthalo Green (Blue Shade)",
+        "Viridian Green Hue",
+        "Phthalo Green (Yellow Shade)",
+        "Light Phthalo Green",
+        "Permanent Green Light",
+        "Cobalt Green",
+        "Hookers Green Hue",
+        "Jenkins Green",
+        "Sap Green Hue"
+      ],
+      "Earth Tones": [
+        "Yellow Oxide",
+        "Yellow Ochre",
+        "Raw Sienna",
+        "Burnt Sienna",
+        "Mars Yellow",
+        "Red Oxide",
+        "Violet Oxide",
+        "Burnt Umber Light",
+        "Burnt Umber",
+        "Raw Umber"
+      ],
+      "Blacks and Whites": [
+        "Graphite Gray",
+        "Paynes Gray",
+        "Bone Black",
+        "Carbon Black",
+        "Mars Black",
+        "Titan Buff",
+        "Zinc White",
+        "Titanium White"
+      ]
+    },
+    "Mediums": {
+      "Gel Mediums": [
+        "Soft Gel Gloss",
+        "Soft Gel Semi-Gloss",
+        "Soft Gel Matte",
+        "Regular Gel Gloss",
+        "Regular Gel Semi-Gloss",
+        "Regular Gel Matte",
+        "Heavy Gel Gloss",
+        "Heavy Gel Semi-Gloss",
+        "Heavy Gel Matte",
+        "Extra Heavy Gel Gloss",
+        "Extra Heavy Gel Semi-Gloss",
+        "Extra Heavy Gel Matte",
+        "High Solid Gel Gloss"
+      ],
+      "Fluid Mediums": [
+        "Matte Medium",
+        "Gloss Medium",
+        "Polymer Medium Gloss",
+        "Airbrush Medium"
+      ],
+      "Pastes": [
+        "Molding Paste",
+        "Light Molding Paste",
+        "Hard Molding Paste",
+        "Extra Heavy Molding Paste",
+        "Coarse Molding Paste"
+      ],
+      "Effect Mediums": [
+        "Clear Tar Gel",
+        "Self-Leveling Clear Gel",
+        "Glass Bead Gel",
+        "Pumice Gel Fine",
+        "Pumice Gel Coarse",
+        "Pumice Gel Extra Coarse",
+        "Fiber Paste",
+        "Crackle Paste"
+      ],
+      "Glazing Mediums": [
+        "Glazing Liquid Gloss",
+        "Glazing Liquid Satin"
+      ],
+      "Pouring Mediums": [
+        "Color Pouring Medium Gloss",
+        "Color Pouring Medium Matte"
+      ],
+      "GAC Specialty Polymers": [
+        "GAC 100 Universal Acrylic Polymer",
+        "GAC 200 Increases Film Hardness",
+        "GAC 400 Stiffens Fabrics",
+        "GAC 500 Increases Film Flexibility",
+        "GAC 800 Reduces Crazing in Pours",
+        "GAC 900 Fabric Painting Medium"
+      ]
+    },
+    "Additives": [
+      "Retarder",
+      "Wetting Agent",
+      "Flow Release",
+      "Open Thinner"
+    ]
+  }
+}

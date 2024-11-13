@@ -1,4 +1,5 @@
-export interface Ingredient {
-  color: string;
-  amount: number;
+export interface IngredientData {
+  name: string;
+  pendingAmount: number;
+  totalAmount: number;
 }
